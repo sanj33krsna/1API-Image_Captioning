@@ -61,3 +61,4 @@ OpenVINO Integration: OpenVINO was instrumental in further optimizing the model 
 ![2nd Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/blob/main/demo/2.png)
 
 ## Future Additions:
+[] Addition of an web app using gradio, flask or hugging face space.
