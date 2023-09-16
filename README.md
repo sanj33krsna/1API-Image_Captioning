@@ -53,9 +53,11 @@ DevCloud Utilization: DevCloud provided valuable computational resources for tra
 Intel Extension for TensorFlow: The project made use of the Intel Extension for TensorFlow to optimize TensorFlow-based operations for better performance on Intel hardware. This extension ensured that the model ran efficiently during both training and inference stages, leveraging the hardware acceleration features.
 <br>
 OpenVINO Integration: OpenVINO was instrumental in further optimizing the model for efficient inferencing. By converting the model to OpenVINO's format and leveraging its hardware-specific optimizations, the project achieved faster and more efficient image caption generation on Intel hardware, making the system suitable for real-time applications and deployment on a variety of Intel-powered platforms.
+</samp>
 
 ## Final Output:
-![1st Prediction]https://github.com/sanj33krsna/1API-Image_Captioning/tree/main/demo/1.jpeg
-![2nd Prediction]https://github.com/sanj33krsna/1API-Image_Captioning/tree/main/demo/2.jpeg
+![1st Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/tree/main/demo/1.jpeg)
+<br>
+![2nd Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/tree/main/demo/2.jpeg)
 
 ## Future Additions:
