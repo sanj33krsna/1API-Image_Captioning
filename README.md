@@ -45,9 +45,10 @@ Image captioning is a computational task that involves automatically generating 
 - OpenVino
 <br>
 - Tensor Flow
+</samp>
 
 ## Integration of OneAPI-tools:
-  <samp>
+<samp>
 DevCloud Utilization: DevCloud provided valuable computational resources for training and inference. It enabled efficient scaling and resource allocation for model training, ensuring timely completion of training tasks.
 <br>
 Intel Extension for TensorFlow: The project made use of the Intel Extension for TensorFlow to optimize TensorFlow-based operations for better performance on Intel hardware. This extension ensured that the model ran efficiently during both training and inference stages, leveraging the hardware acceleration features.
