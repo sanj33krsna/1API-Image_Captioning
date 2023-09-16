@@ -58,6 +58,6 @@ OpenVINO Integration: OpenVINO was instrumental in further optimizing the model 
 ## Final Output:
 ![1st Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/blob/main/demo/1.png)
 <br>
-![2nd Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/blolb/main/demo/2.png)
+![2nd Prediction](https://github.com/sanj33krsna/1API-Image_Captioning/blob/main/demo/2.png)
 
 ## Future Additions:
